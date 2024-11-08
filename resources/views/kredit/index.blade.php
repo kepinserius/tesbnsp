@@ -121,8 +121,8 @@ input:focus {
     <nav>
         <ul>
             <li><a href="/">Beranda</a></li>
-            <li><a href="#tentang">Tentang Perusahaan</a></li>
-            <li><a href="#kontak">Kontak Perusahaan</a></li>
+            <li><a href="tentang">Tentang Perusahaan</a></li>
+            <li><a href="kontak">Kontak Perusahaan</a></li>
         </ul>
     </nav>
 

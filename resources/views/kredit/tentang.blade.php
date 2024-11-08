@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tentang Perusahaan</title>
-    <!-- Custom CSS untuk Navigasi -->
+  
     <style>
         nav ul {
             list-style: none;
@@ -20,7 +20,7 @@
         nav ul li a {
             text-decoration: none;
             color: #333;
-            font-size: 18px;
+            font-size: 20px;
             font-weight: bold;
         }
 
@@ -30,7 +30,7 @@
     </style>
 </head>
 <body>
-      <!-- Logo di pojok kiri atas -->
+  
       <div style="position: absolute; top: 10px; left: 10px;">
         <img src="{{ asset('images/logo.png') }}" alt="Logo" class="logo">
     </div>

@@ -20,7 +20,7 @@
         nav ul li a {
             text-decoration: none;
             color: #333;
-            font-size: 18px;
+            font-size: 20px;
             font-weight: bold;
         }
 
